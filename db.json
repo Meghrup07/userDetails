@@ -1,0 +1,44 @@
+{
+  "userInfo": [
+    {
+      "firstName": "Meghshyam",
+      "lastName": "Wagh",
+      "email": "megh@yopmail.com",
+      "mobileNumber": "8806520498",
+      "dob": "1998-05-19",
+      "role": "Admin",
+      "pic": "https://static.vecteezy.com/system/resources/previews/002/002/403/original/man-with-beard-avatar-character-isolated-icon-free-vector.jpg",
+      "id": 0
+    },
+    {
+      "firstName": "Prerna",
+      "lastName": "Gharge",
+      "email": "preru@yopmail.com",
+      "mobileNumber": "8806520699",
+      "dob": "1998-06-11",
+      "role": "Teacher",
+      "pic": "https://static.vecteezy.com/system/resources/previews/002/002/257/original/beautiful-woman-avatar-character-icon-free-vector.jpg",
+      "id": 1
+    },
+    {
+      "firstName": "John",
+      "lastName": "Deo",
+      "email": "john@gmail.com",
+      "mobileNumber": "7889445465",
+      "dob": "2023-08-25",
+      "role": "Student",
+      "pic": "https://png.pngtree.com/png-vector/20191103/ourmid/pngtree-handsome-young-guy-avatar-cartoon-style-png-image_1947775.jpg",
+      "id": 2
+    },
+    {
+      "firstName": "demoD",
+      "lastName": "demo",
+      "email": "demo@yopmail.com",
+      "mobileNumber": "8806527799",
+      "dob": "1999-09-21",
+      "role": "Student",
+      "pic": "https://static.vecteezy.com/system/resources/previews/002/002/257/original/beautiful-woman-avatar-character-icon-free-vector.jpg",
+      "id": 3
+    }
+  ]
+}
